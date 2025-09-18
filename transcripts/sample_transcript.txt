@@ -1,0 +1,7 @@
+Dentist Dr. Smith: Team, we're reviewing Mary Johnson today for her six-month checkup.
+Patient Mary Johnson: I've been feeling a sharp twinge on the upper left when I drink cold water.
+Assistant Kelly: Prophy completed. Light plaque on the molars, bleeding score 2/6.
+Hygienist Alex: Probed pockets at 3-4 mm, noted slight inflammation near tooth #14.
+Dentist Dr. Smith: Radiographs show early caries on tooth #14 with no pulpal involvement.
+Dentist Dr. Smith: We'll place a resin filling next visit and apply fluoride varnish today.
+Assistant Kelly: I'll schedule Mary for a 45-minute filling appointment next Tuesday.

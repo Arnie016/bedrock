@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dentist-soap-agent"
+version = "0.1.0"
+description = "Simple rule-based meeting transcription agent for dentist SOAP notes"
+authors = [{name = "Bedrock AI"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+cli = []
+
+[project.urls]
+Homepage = "https://example.com/dentist-soap-agent"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
